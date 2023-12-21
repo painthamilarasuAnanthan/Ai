@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJvvfqeauhmEkjqt0fMRlXe/Jwhg/KCJOVGsLWnGvHOzeIK59a4u9EQieloDZMaI8gD6QqDjyrjYy31WPssxBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paint\\Downloads\\myfirstAiassistant\\myfirstAiassistant\\myfirstAiassistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paint\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
